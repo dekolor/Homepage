@@ -31,20 +31,19 @@ position:relative;
 a {
     text-decoration: none;
     color:#bdc3c7;
-    position:absolute;
-    bottom:15px;
     border-right-style: solid;
     border-right-color:#bdc3c7;
     border-right-width: 1px;
-     padding-right:10px;
+    padding-right:10px;
+
 }
 a:hover {
     text-decoration: underline;
 }
- {
-    width:100%;
-}
-span {
-    width:50px;
-   /* padding-left:10px; */
+li{
+    padding-top:10px;
+    display:inline;
+    position:relative;
+    top:15px;
+    padding-right:10px;
 }
